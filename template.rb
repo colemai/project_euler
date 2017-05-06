@@ -5,10 +5,11 @@ require 'pry'
 require 'set'
 
 ############## 
+## Problem
+
+
+############## 
 ## Result
-
-
-
 
 
 ############## 
@@ -25,7 +26,6 @@ end
 time3 = Benchmark.measure do
 	# code here
 end
-
 
 
 ############## 
